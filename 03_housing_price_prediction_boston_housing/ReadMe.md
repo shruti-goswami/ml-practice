@@ -71,7 +71,7 @@ where `y = MEDV` and each `x_i` is one of the 13 features.
 ---
 
 ## 📁 Files in this folder
-- `data/boston_housing.csv` → dataset  
+- `data/HousingData.csv` → dataset  
 - `HousingPricePreduction.ipynb` → Jupyter Notebook with EDA + training  
 - `BostHousingPricePrediction.py` → Python script version  
 - `README.md` → This file  
